@@ -14,9 +14,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Enable updating of APEXes
-$(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
-
 # Release name
 PRODUCT_RELEASE_NAME := CPH1859
 PRODUCT_DEFAULT_LANGUAGE := en
