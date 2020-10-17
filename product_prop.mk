@@ -15,9 +15,6 @@
 # limitations under the License.
 #
 
-# Pixel identification
-PRODUCT_PRODUCT_PROPERTIES += \
-   ro.build.fingerprint=google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys
 
 # Camera
 PRODUCT_PRODUCT_PROPERTIES += \
